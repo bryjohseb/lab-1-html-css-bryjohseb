@@ -1,0 +1,28 @@
+.article{
+    width: 80%;  
+    margin-right: 2em;
+    margin-left: 2em;  
+    border-style: solid;
+    border-radius: 0.5em;
+}
+
+aside{
+    width: 20%;          
+    margin-right: 2em;
+    margin-left: 2em;
+    border-style: solid;
+    border-radius: 0.5em;
+}
+
+main{
+    display: inline-flex;
+}
+
+nav {        
+    display: flex;  
+    margin-bottom: 2em;  
+    margin-right: 2em;
+    margin-left: 2em;
+    border-style: solid;
+    border-radius: 0.5em;
+}
